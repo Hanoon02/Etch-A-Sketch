@@ -1,3 +1,3 @@
 # Etch-A-Sketch
 
-## Empty Repo, will update soon
+## Simple sketching program made using JavaScript and CSS
